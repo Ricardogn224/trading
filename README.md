@@ -8,9 +8,9 @@ This projet is web-based technical screener for candlestick patterns
 
 # How to start de project
 
-1)  You have to install [python3] (https://www.python.org/downloads/)
+1)  You have to install [python3](https://www.python.org/downloads/)
 
-2)  You have to install [pip] (https://pip.pypa.io/en/stable/installation/)
+2)  You have to install [pip](https://pip.pypa.io/en/stable/installation/)
 
 3)  Open your terminal
 
