@@ -5,7 +5,7 @@ web-based technical screener for candlestick patterns using TA-Lib, Python, and 
 
 This projet is web-based technical screener for candlestick patterns
 
-Our[github page](https://ricardogn224.github.io/trading_indicator/)
+Our [github page](https://ricardogn224.github.io/trading_indicator/)
 
 
 # How to start de project
