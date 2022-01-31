@@ -8,10 +8,14 @@ This projet is web-based technical screener for candlestick patterns
 
 # How to start de project
 
-1)  You have to install python3 
-2)  You have to install pip
-3)  Open your terminal you can clone this repo
-5)  Tape:
+1)  You have to install [python3] (https://www.python.org/downloads/)
+
+2)  You have to install [pip] (https://pip.pypa.io/en/stable/installation/)
+
+3)  Open your terminal
+
+
+ # Tape:
  ```bash
  git clone https://github.com/Ricardogn224/trading_indicator.git
  
